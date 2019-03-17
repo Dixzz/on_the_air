@@ -7,3 +7,5 @@ Rom Specific:
 Added HW button customisation
 Added Weather
 Welcome OTA
+Weather on LS
+Integrate OTA in setts
