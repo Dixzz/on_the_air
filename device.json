@@ -3,12 +3,11 @@
     {
       "datetime": 1552928467,
       "filename": "Pearl-1.0-mido-OFFICIAL-20190318-1646.zip",
-      "id": "9918946ff6a5c9d7452f2ddd7c9027457c752757",
       "size": 590348288,
       "romtype": "OFFICIAL",
-      "url": "https:\/\/sourceforge.net\/projects\/projectpearl\/files\/mido\/Pearl-1.0-mido-OFFICIAL-20190318-1646.zip\/download",
-      "version": "Pearl-1.0-mido-OFFICIAL",
-      "maintainer": "Z"
+      "id": "a5302b53519661df3fe898702bc7962b2bb58537834d338395f6751a6ed14833",
+      "url": "https://sourceforge.net/projects/havoc-os/files/kenzo/Havoc-OS-v2.3-20190315-kenzo-Official.zip/download",
+      "version": "Pearl-1.0-mido-OFFICIAL"
     }
   ]
 }
